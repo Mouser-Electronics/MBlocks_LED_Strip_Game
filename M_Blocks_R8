@@ -1,18 +1,30 @@
-//*************************************************************************************************//
-//                                   LED STRIP Block GAME                                         //
-//                                                                                                 //
-//  ORIGINALLY WRITTEN BY:  YAE YEONG BAE (FOR ARDUINO AND SINGLE COLOR DOT MATRIX DISPLAY)        //
-//  MODIFIED FOR USE WITH DIGILENT MAX32 DEVELOPMENT PLATFORM AND WS2812 LED STRIP BY:             //
-//      RYAN L. PREWITT - TECHNICAL SUPPORT REPRESENTATIVE                                         //
-//                                                                                                 //
-//  THIS PROGRAM WAS DEVELOPED FOR THE EXCLUSIVE USE OF:                                           //
-//      MOUSER ELECTRONICS                                                                         //
-//      1000 NORTH MAIN STREET                                                                     //
-//      MANSFIELD TEXAS                                                                            //
-//                                                                                                 //
-//      COMPILED:  September 22, 2016                                                              //
-//                                                                                                 //
-//*************************************************************************************************//
+/*
+	LED STRIP Block GAME
+    	Copyright (C) <2016>  <Ryan L. Prewitt> <Mouser Electronics>
+
+   	This program is free software: you can redistribute it and/or modify
+  	it under the terms of the GNU General Public License as published by
+   	the Free Software Foundation, either version 3 of the License, or
+    	any later version.
+
+    	This program is distributed in the hope that it will be useful,
+    	but WITHOUT ANY WARRANTY; without even the implied warranty of
+    	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    	GNU General Public License for more details.
+
+    	You should have received a copy of the GNU General Public License
+    	along with this program.  If not, see <http://www.gnu.org/licenses/>.
+	
+
+	http://www.mouser.com/applications/led-blocks-game/
+
+      	ORIGINALLY WRITTEN BY:  YAE YEONG BAE (FOR ARDUINO AND SINGLE COLOR DOT MATRIX DISPLAY)
+      	MODIFIED FOR USE WITH DIGILENT MAX32 DEVELOPMENT PLATFORM AND WS2812 LED STRIP
+
+      
+*/
+
+
 
 #include <PICxel.h>
 
